@@ -1,4 +1,4 @@
-This is my implementation for Data Netwroks course. 
+This is my implementation for Data Netwroks course's Project . 
 # FTP 
 
 This Repository includes following parts:
